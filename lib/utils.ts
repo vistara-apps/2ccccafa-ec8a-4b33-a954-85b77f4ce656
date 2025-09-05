@@ -1,4 +1,5 @@
 import { type ClassValue, clsx } from 'clsx';
+import { LocationData, RightsGuide } from './types';
 
 export function cn(...inputs: ClassValue[]) {
   return clsx(inputs);
@@ -135,4 +136,4 @@ export function getMockRightsGuide(state: string): RightsGuide {
   };
 }
 
-import { LocationData } from './types';
+
