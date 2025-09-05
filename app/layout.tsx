@@ -10,7 +10,11 @@ export const metadata: Metadata = {
   description: 'A mobile-first application that provides instant, location-aware legal rights information and real-time guidance during high-stress encounters.',
   keywords: 'legal rights, law enforcement, civil rights, legal guidance, mobile app',
   authors: [{ name: 'RightNow Guides Team' }],
-  viewport: 'width=device-width, initial-scale=1',
+};
+
+export const viewport = {
+  width: 'device-width',
+  initialScale: 1,
 };
 
 export default function RootLayout({
