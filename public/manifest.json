@@ -1,0 +1,14 @@
+{
+  "name": "RightNow Guides",
+  "description": "RightNow Guides is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://2ccccafa-ec8a-4b33-a954-85b77f4ce656.vercel.app",
+  "properties": {
+    "app": {
+      "name": "RightNow Guides",
+      "description": "RightNow Guides is a Base Mini App built with Zara.",
+      "url": "https://2ccccafa-ec8a-4b33-a954-85b77f4ce656.vercel.app",
+      "icon": "https://0co.to/images/zara-2.png"
+    }
+  }
+}

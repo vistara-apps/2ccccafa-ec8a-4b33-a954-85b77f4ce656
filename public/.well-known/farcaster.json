@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "RightNow Guides",
+    "subtitle": "Built with Zara",
+    "description": "RightNow Guides is a Base Mini App built with Zara.",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://2ccccafaec8a4b33a95485b77f4ce656-tc3q.vercel.app",
+    "splashImageUrl": "https://2ccccafaec8a4b33a95485b77f4ce656-tc3q.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "heroImageUrl": "https://2ccccafaec8a4b33a95485b77f4ce656-tc3q.vercel.app/image.png",
+    "tagline": "RightNow Guides",
+    "screenshotUrls": [
+      "https://2ccccafaec8a4b33a95485b77f4ce656-tc3q.vercel.app/screenshot.png",
+      "https://2ccccafaec8a4b33a95485b77f4ce656-tc3q.vercel.app/screenshot.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "webhookUrl": "https://2ccccafaec8a4b33a95485b77f4ce656-tc3q.vercel.app/api/webhook"
+  }
+}
